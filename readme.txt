@@ -1,2 +1,3 @@
 Mans pirmais repozitorijs
-2020. decembris
+
+Viss sanāk!
